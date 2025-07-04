@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pdfminer.six
+sentence-transformers
+faiss-cpu
+numpy
+requests
+python-multipart
